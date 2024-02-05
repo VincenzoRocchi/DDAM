@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DDAM_data/exercises"
+		},
+		{
+			"path": "../DDAM_data/brewery"
+		}
+	],
+	"settings": {}
+
+
+}
