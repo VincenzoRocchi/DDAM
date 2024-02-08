@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../DDAM_data/brewery"
+		},
+		{	
+			"path": "../DDAM_data/test"
 		}
 	],
 	"settings": {}
